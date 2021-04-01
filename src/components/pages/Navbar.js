@@ -42,6 +42,6 @@ const Navbar = () => {
         <Link className="btn btn-outline-light" exact to="/users/add">Add User</Link>
       </div>
     </nav>
-  );
+  ); 
 };
 export default Navbar;
